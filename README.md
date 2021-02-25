@@ -5,5 +5,37 @@
 # 项目地址
 * <a href = 'https://github.com/Alice2021/wish-admin-api'>https://github.com/Alice2021/wish-admin-api</a>
 # 效果展示
+####登录页面
+![](https://github.com/Alice2021/wish-admin-api/blob/main/screenshots/%E7%99%BB%E5%BD%95%E7%95%8C%E9%9D%A2.png?raw=true)
 ####系统首页
 ![](https://github.com/Alice2021/wish-admin-api/blob/main/screenshots/170220.png?raw=true)
+####许愿管理页面
+![](https://github.com/Alice2021/wish-admin-api/blob/main/screenshots/170408.png?raw=true)
+####管理员管理页面
+![](https://github.com/Alice2021/wish-admin-api/blob/main/screenshots/%E7%AE%A1%E7%90%86%E5%91%98%E7%AE%A1%E7%90%86.png?raw=true)
+# 项目实现功能
+ - 登录
+ - 退出
+ - 首页管理
+ - 许愿管理
+ - 管理员管理
+ - 可以处理登录请求，愿望添加，修改，查询请求，管理员添加，修改，查询请求
+# 项目部署
+#### 安装MYSQL数据库
+**创建数据库表，添加模拟数据**
+
+**导入数据库**
+> 本项目导出的是sql脚本，需要用使用mysql的图像界面工具或者是命令方式 进行导入
+
+#### 运行项目 --wish
+**注入依赖**
+> npm install
+
+**在项目文件夹下启动项目**
+> npm start
+
+配置完数据库以后可以使用postman或者对应前端项目进行后端逻辑的调试
+
+# 联系
+**作者邮箱**
+>1573811314@qq.com
