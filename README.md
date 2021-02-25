@@ -12,7 +12,7 @@ node.js + express + MYSQL数据库 + Sequelize数据库控制模块
 ####系统首页
 ![](https://github.com/Alice2021/wish-admin-api/blob/main/screenshots/170220.png?raw=true)
 ####许愿管理页面
-![](https://github.com/Alice2021/wish-admin-api/blob/main/screenshots/170408.png?raw=true)
+![](https://github.com/Alice2021/wish-admin-api/blob/main/screenshots/170408.png)
 ####管理员管理页面
 ![](https://github.com/Alice2021/wish-admin-api/blob/main/screenshots/%E7%AE%A1%E7%90%86%E5%91%98%E7%AE%A1%E7%90%86.png?raw=true)
 # 项目实现功能
